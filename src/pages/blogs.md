@@ -6,32 +6,6 @@ sections:
     image_alt: App preview
     actions: []
     title: Our Blogs
-  - section_id: reviews
-    type: section_reviews
-    background: white
-    title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
-    reviews:
-      - author: Anil Kumar
-        avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
-        content: >-
-          We transferred our IT development and support to ERA INTERFACES in
-          2019. In the process, we have significantly reduced our IT spend.
-      - author: Siva Prasad
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
-        content: >-
-          The approach towards working on engagements is very structured,
-          professional, and results-driven.
-      - author: Mr.P.Anbumani
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
-        content: >-
-          Doing excellence in developing modern technologies. They are good at
-          suggesting their ideas to us.
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
