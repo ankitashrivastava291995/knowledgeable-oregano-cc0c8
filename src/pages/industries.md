@@ -57,7 +57,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image: images/diligent-mango.png
+        image: images/pleasant-sparrow.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
