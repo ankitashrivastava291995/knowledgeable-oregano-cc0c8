@@ -677,7 +677,6 @@ models:
         options:
           - gray
           - white
-          - ''
         default: gray
       - type: list
         name: reviews
