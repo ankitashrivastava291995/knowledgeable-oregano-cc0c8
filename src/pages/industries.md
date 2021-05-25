@@ -9,10 +9,7 @@ sections:
       ERA Interfaces wants to provide smart and proactive digital solutions to
       ensure its customers stay relevant in these progressive and dynamic market
       conditions.
-    actions:
-      - label: Explore More
-        url: /features
-        style: primary
+    actions: []
   - section_id: features
     type: section_features
     background: gray
