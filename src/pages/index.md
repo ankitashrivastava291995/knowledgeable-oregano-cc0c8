@@ -52,13 +52,10 @@ sections:
     background: gray
     features:
       - title: Explore What we are
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+        content: |
+          Breaking Conventional Approaches and Establishing a New ERA
 
           *   Lorem ipsum
-
           *   dolor sit amet
         image_alt: lorem-ipsum
         actions: []
