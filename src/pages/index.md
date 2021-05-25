@@ -93,7 +93,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Next ERA Of Your Business
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      We help our customers enhance the Efficiency & Effectiveness of their
+      Talent Supply Chain.
     actions:
       - label: Get Started
         url: /signup
