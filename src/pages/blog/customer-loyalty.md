@@ -3,8 +3,9 @@ title: TOP TRENDING TECHNOLOGY IN 2021
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  Top Trending technology in 2021 Trend 1: Internet of Behaviors As demonstrated
+  by the COVID-19 protocol monitoring example,  spans the digital and physical
+  worlds — that information can be […]
 date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
