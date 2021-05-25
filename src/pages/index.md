@@ -18,7 +18,6 @@ sections:
     type: section_features
     background: gray
     title: Services We Offer
-    subtitle: Services We Offer
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
