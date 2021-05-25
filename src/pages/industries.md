@@ -73,7 +73,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image: images/important-aluminum.png
+        image: images/super-thyme.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
