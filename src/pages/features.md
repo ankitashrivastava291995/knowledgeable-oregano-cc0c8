@@ -102,6 +102,7 @@ sections:
         actions: []
         type: feature_item
     type: section_features
+    subtitle: EDUCATION
   - section_id: call-to-action
     type: section_cta
     title: Next ERA Of Your Business
