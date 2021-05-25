@@ -31,7 +31,7 @@ sections:
           auctor.
         actions: []
       - title: Cool Feature of Your Services
-        image: images/feature3.png
+        image: images/e-commerce.png
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
