@@ -38,6 +38,11 @@ sections:
     background: gray
     type: section_posts
   - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
+  - section_id: lorem-ipsum
     background: gray
     type: section_posts
   - section_id: call-to-action
