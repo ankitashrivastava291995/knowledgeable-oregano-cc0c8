@@ -11,7 +11,7 @@ sections:
       ensure its customers stay relevant in these progressive and dynamic market
       conditions.
     actions:
-      - label: Learn More
+      - label: Explore More
         url: /features
         style: primary
   - section_id: features
