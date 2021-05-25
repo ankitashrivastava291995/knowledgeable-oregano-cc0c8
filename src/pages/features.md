@@ -30,7 +30,7 @@ sections:
       We help our customers enhance the Efficiency & Effectiveness of their
       Talent Supply Chain.
     actions:
-      - label: Get Started
+      - label: 'Call '
         url: '#'
         style: primary
 seo:
