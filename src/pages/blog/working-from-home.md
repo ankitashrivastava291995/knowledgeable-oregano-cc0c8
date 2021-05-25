@@ -1,8 +1,9 @@
 ---
 title: BEST PRACTICES FOR CODING
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+  Welcome to the wonderful world of software development. Prepare yourself for
+  an exciting and thrilling journey filled with code, rules, and more code. You
+  may be a […]
 author: src/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
