@@ -5,10 +5,7 @@ sections:
     type: section_hero
     image_alt: App preview
     title: Reliable & Cost Efficient Solutioning Company
-    actions:
-      - label: Explore More
-        url: /features
-        style: primary
+    actions: []
   - section_id: features
     type: section_features
     background: gray
