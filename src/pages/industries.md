@@ -61,7 +61,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: lorem-ipsum
+      - title: E-commerces
         content: >-
           ## Lorem ipsum
 
