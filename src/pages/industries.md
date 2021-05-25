@@ -81,7 +81,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image: three
+        image: images/famous-velociraptor.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
