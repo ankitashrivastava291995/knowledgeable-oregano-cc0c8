@@ -60,6 +60,12 @@ sections:
             icon: arrow-right
             icon_position: right
     subtitle: solutions we provide
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
   - section_id: reviews
     type: section_reviews
     background: white
