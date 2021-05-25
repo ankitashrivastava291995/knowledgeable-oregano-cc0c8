@@ -276,7 +276,7 @@ models:
           - stackbit_page_meta
         label: Seo
     singleInstance: true
-    file: ''
+    file: blog/index.md
   page:
     type: page
     label: Page
