@@ -275,6 +275,8 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+    singleInstance: true
+    file: ''
   page:
     type: page
     label: Page
