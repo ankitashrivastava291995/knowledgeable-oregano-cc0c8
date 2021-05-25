@@ -85,7 +85,7 @@ sections:
       We help our customers enhance the Efficiency & Effectiveness of their
       Talent Supply Chain.
     actions:
-      - label: Get Started
+      - label: Call Us No
         url: /signup
         style: primary
 seo:
