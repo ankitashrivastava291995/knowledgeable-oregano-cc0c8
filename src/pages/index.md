@@ -5,6 +5,7 @@ sections:
     type: section_hero
     image_alt: App preview
     actions: []
+    title: 'Industries '
   - section_id: features
     type: section_features
     background: gray
