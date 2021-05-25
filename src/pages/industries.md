@@ -41,7 +41,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image: images/famous-velociraptor.png
+        image: images/perpetual-hickory.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
