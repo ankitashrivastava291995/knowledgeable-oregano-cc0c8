@@ -53,7 +53,7 @@
                     },
                     {
                         "label": "Services",
-                        "url": "/",
+                        "url": "/services",
                         "style": "link"
                     },
                     {
