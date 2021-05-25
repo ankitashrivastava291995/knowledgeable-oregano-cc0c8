@@ -48,7 +48,9 @@ sections:
     subtitle: solutions we provide
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      We are on a mission to empower each organization and individuals to self
+      sustain through our range of services and product offerings
     background: gray
     features:
       - title: Explore What we are
