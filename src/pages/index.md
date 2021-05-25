@@ -5,10 +5,6 @@ sections:
     type: section_hero
     image_alt: App preview
     title: Reliable & Cost Efficient Solutioning Company
-    content: >
-      ERA Interfaces wants to provide smart and proactive digital solutions to
-      ensure its customers stay relevant in these progressive and dynamic market
-      conditions.
     actions:
       - label: Explore More
         url: /features
