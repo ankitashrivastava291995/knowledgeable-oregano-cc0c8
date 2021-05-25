@@ -592,8 +592,6 @@ models:
           - gray
           - white
         default: gray
-      - name: ''
-        type: string
     labelField: title
   section_pricing:
     type: object
