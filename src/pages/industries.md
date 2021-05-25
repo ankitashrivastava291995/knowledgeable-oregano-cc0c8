@@ -45,7 +45,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: lorem-ipsum
+      - title: Hospitality
         content: >-
           ## Lorem ipsum
 
