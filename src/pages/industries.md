@@ -26,14 +26,6 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         actions: []
-      - title: Cool Feature of Your Services
-        image: images/e-commerce.png
-        image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        actions: []
   - section_id: lorem-ipsum
     background: gray
     features:
