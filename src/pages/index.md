@@ -47,7 +47,7 @@ sections:
             icon_position: right
     subtitle: solutions we provide
   - section_id: lorem-ipsum
-    title: Testimonials
+    title: About Us
     subtitle: >-
       We are on a mission to empower each organization and individuals to self
       sustain through our range of services and product offerings
