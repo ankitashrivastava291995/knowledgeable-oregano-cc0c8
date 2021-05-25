@@ -685,8 +685,6 @@ models:
           type: model
           models:
             - review_item
-      - name: review_image
-        type: image
     labelField: title
   review_item:
     type: object
