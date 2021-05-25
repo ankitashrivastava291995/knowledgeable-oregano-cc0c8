@@ -97,7 +97,7 @@ sections:
       We help our customers enhance the Efficiency & Effectiveness of their
       Talent Supply Chain.
     actions:
-      - label: Call Us NW
+      - label: Call Us Now
         url: /signup
         style: primary
   - section_id: recent-posts
