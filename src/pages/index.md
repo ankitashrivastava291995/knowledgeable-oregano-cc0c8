@@ -10,6 +10,7 @@ sections:
       ERA Interfaces wants to provide smart and proactive digital solutions to
       ensure its customers stay relevant in these progressive and dynamic market
       conditions.
+    image: images/festive-robin.png
   - section_id: features
     type: section_features
     background: gray
