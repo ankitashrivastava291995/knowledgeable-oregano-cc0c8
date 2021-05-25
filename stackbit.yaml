@@ -263,9 +263,7 @@ models:
     urlPath: /blog
     label: Blog
     layout: blog
-    file: blog/index.md
     hideContent: true
-    singleInstance: true
     fields:
       - type: string
         name: title
