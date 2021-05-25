@@ -2,7 +2,7 @@
 title: Features
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Our Services
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
