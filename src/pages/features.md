@@ -2,7 +2,6 @@
 title: Features
 sections:
   - section_id: lorem-ipsum
-    title: EDUCATION
     background: gray
     features:
       - title: lorem-ipsum
