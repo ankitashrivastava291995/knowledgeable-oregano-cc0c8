@@ -687,6 +687,7 @@ models:
             - review_item
       - name: review_image
         type: image
+        default: '4'
     labelField: title
   review_item:
     type: object
