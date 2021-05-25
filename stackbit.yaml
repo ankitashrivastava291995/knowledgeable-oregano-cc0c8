@@ -675,8 +675,12 @@ models:
         label: Background
         description: The background of the section
         options:
-          - gray
-          - white
+          - label: gray
+            value: gray
+          - label: white
+            value: white
+          - label: ''
+            value: ''
         default: gray
       - type: list
         name: reviews
