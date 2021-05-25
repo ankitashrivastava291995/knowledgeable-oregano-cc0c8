@@ -35,7 +35,6 @@ sections:
           amet nec urna.
         actions: []
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
     features:
