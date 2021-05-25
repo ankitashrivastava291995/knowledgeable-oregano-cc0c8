@@ -25,7 +25,7 @@ sections:
     type: section_content
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
+    title: Next ERA Of Your Business
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
