@@ -88,7 +88,8 @@
                         "style": "link",
                         "has_icon": true,
                         "icon": "instagram",
-                        "icon_position": "left"
+                        "icon_position": "left",
+                        "label": "I"
                     },
                     {
                         "label": "LinkedIn",
