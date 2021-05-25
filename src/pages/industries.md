@@ -19,7 +19,7 @@ sections:
           consequat ex.
         actions: []
       - title: Health Care
-        image: images/healthcare.png
+        image: images/neat-rosemary.png
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
