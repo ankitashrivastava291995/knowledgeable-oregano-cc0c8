@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Reliable & Cost Efficient Solutioning Company
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      ERA Interfaces wants to provide smart and proactive digital solutions to
+      ensure its customers stay relevant in these progressive and dynamic market
+      conditions.
     actions:
       - label: Learn More
         url: /features
