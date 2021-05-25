@@ -84,7 +84,7 @@
                 "title": "Community",
                 "nav_links": [
                     {
-                        "url": "https://linkedin.com/",
+                        "url": "https://instagram.com/",
                         "style": "link",
                         "has_icon": true,
                         "icon": "instagram",
@@ -101,7 +101,7 @@
                     },
                     {
                         "label": "Facebook",
-                        "url": "https://github.com/",
+                        "url": "https://facebook.com/",
                         "style": "link",
                         "has_icon": true,
                         "icon": "facebook",
