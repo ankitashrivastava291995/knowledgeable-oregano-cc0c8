@@ -34,8 +34,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     reviews:
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
+      - avatar_alt: lorem-ipsum
         type: review_item
       - author: lorem-ipsum
         avatar_alt: lorem-ipsum
