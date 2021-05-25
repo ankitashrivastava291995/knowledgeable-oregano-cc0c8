@@ -19,7 +19,7 @@ sections:
     background: gray
     title: Services We Offer
     features:
-      - title: The Best Feature of Your Services
+      - title: Explore our Wide Range of Services
         image: images/services.png
         image_alt: App preview on a phone and tablet
         content: |
