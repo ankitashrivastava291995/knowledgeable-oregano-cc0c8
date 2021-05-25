@@ -9,7 +9,6 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
     features:
       - title: Recruitment
         image: images/recruitment1.png
