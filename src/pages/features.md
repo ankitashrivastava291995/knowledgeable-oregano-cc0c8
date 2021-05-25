@@ -49,6 +49,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         type: review_item
     type: section_reviews
+    review_image: images/ksrct.png
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
