@@ -6,24 +6,6 @@ sections:
     image_alt: App preview
     actions: []
     title: Our Blogs
-  - section_id: lorem-ipsum
-    title: About Us
-    subtitle: >-
-      We are on a mission to empower each organization and individuals to self
-      sustain through our range of services and product offerings
-    background: gray
-    features:
-      - title: Explore What we are
-        content: |
-          Breaking Conventional Approaches and Establishing a New ERA
-
-          *   Lorem ipsum
-          *   dolor sit amet
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-        image: images/about_us.png
-    type: section_features
   - section_id: reviews
     type: section_reviews
     background: white
@@ -56,7 +38,6 @@ sections:
     background: gray
     type: section_posts
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     background: gray
     type: section_posts
   - section_id: call-to-action
