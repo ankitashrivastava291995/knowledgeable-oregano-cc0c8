@@ -82,6 +82,11 @@ sections:
         content: >-
           Doing excellence in developing modern technologies. They are good at
           suggesting their ideas to us.
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
   - section_id: call-to-action
     type: section_cta
     title: Next ERA Of Your Business
