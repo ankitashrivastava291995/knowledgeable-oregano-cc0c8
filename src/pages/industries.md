@@ -49,7 +49,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image: images/diligent-mango.png
+        image: images/famous-velociraptor.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
@@ -65,7 +65,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image: images/famous-velociraptor.png
+        image: images/diligent-mango.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
