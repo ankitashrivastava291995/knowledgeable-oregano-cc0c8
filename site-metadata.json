@@ -57,8 +57,9 @@
                         "style": "link"
                     },
                     {
-                        "url": "/signup",
-                        "style": "link"
+                        "url": "/blogs",
+                        "style": "link",
+                        "label": "Blogs"
                     },
                     {
                         "label": "Contact",
