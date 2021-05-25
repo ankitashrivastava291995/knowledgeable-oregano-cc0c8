@@ -18,7 +18,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         actions: []
-      - title: Awesome Feature of Your Services
+      - title: Health Care
         image: images/healthcare.png
         image_alt: App users welcoming a new member
         content: >-
