@@ -15,7 +15,7 @@ sections:
 
       - dolor sit amet
     image_alt: lorem-ipsum
-    background: white
+    background: gray
     actions:
       - label: lorem-ipsum
         url: '#'
