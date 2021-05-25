@@ -44,6 +44,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/acme.png
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
