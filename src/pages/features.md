@@ -116,7 +116,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: lorem-ipsum
+      - title: Web Development
         content: >-
           ## Lorem ipsum
 
