@@ -4,8 +4,7 @@ sections:
   - section_id: lorem-ipsum
     background: gray
     features:
-      - title: lorem-ipsum
-        content: >
+      - content: >
           ###### EDUCATION
 
 
