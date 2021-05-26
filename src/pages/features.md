@@ -64,7 +64,7 @@ sections:
           *   Lorem ipsum
 
           *   dolor sit amet
-        image: images/marvelous-birch.png
+        image: images/service_smart campus.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
