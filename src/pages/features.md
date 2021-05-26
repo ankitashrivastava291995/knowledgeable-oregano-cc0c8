@@ -15,7 +15,7 @@ sections:
           *   Lorem ipsum
 
           *   dolor sit amet
-        image: images/service_itlf.png
+        image: images/caring-squid.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
