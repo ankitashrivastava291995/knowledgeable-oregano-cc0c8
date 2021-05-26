@@ -100,7 +100,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: lorem-ipsum
+      - title: Digital Marketing
         content: >-
           ## Lorem ipsum
 
