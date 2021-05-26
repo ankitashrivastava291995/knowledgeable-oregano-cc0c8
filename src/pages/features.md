@@ -35,7 +35,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        title: d
+        title: DIGIPEDAGOGY
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
