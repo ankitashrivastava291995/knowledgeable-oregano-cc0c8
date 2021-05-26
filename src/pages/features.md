@@ -15,7 +15,7 @@ sections:
           *   Lorem ipsum
 
           *   dolor sit amet
-        image: images/LMS.png
+        image: images/service_itlf.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
