@@ -21,7 +21,7 @@ sections:
         type: feature_item
         title: ITFL
       - content: >
-          ###### Lorem ipsum
+          ###### Education
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
