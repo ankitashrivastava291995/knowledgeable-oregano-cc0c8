@@ -52,7 +52,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: ASSESSMENT  PORTAL(AI)
+      - title: Smart Campus
         content: >
           ###### Recruitment
 
