@@ -80,7 +80,7 @@ sections:
           *   Lorem ipsum
 
           *   dolor sit amet
-        image: three
+        image: images/recruitment.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
