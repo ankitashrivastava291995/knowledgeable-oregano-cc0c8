@@ -48,7 +48,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image: images/attendance ai.png
+        image: images/projects internship.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
