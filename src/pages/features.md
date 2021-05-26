@@ -5,7 +5,7 @@ sections:
     background: gray
     features:
       - content: >
-          ###### EDUCATION
+          ###### Education
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
