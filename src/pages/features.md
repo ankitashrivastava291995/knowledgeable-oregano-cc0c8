@@ -36,7 +36,7 @@ sections:
         actions: []
         type: feature_item
         title: DIGIPEDAGOGY
-      - title: lorem-ipsum
+      - title: PROJECTS & INTERNSHIPS
         content: >-
           ## Lorem ipsum
 
