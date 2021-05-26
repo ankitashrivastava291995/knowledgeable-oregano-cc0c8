@@ -32,7 +32,7 @@ sections:
           *   Lorem ipsum
 
           *   dolor sit amet
-        image: images/assement.png
+        image: images/aa.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
