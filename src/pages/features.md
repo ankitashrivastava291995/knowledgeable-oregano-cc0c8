@@ -160,22 +160,6 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image: three
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         image: images/service_application.png
         image_alt: lorem-ipsum
         actions: []
