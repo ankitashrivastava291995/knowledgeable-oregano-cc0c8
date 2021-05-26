@@ -31,7 +31,7 @@ sections:
           *   Lorem ipsum
 
           *   dolor sit amet
-        image: images/aa.png
+        image: images/service_digipedagogy.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
