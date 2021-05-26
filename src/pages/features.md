@@ -160,7 +160,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image: three
+        image: images/service_application.png
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
