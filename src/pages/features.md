@@ -132,7 +132,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: lorem-ipsum
+      - title: Chatbot Solution
         content: >-
           ## Lorem ipsum
 
