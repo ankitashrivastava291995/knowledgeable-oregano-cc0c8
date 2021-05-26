@@ -20,8 +20,7 @@ sections:
         actions: []
         type: feature_item
         title: ITFL
-      - title: lorem-ipsum
-        content: >
+      - content: >
           ###### Lorem ipsum
 
 
