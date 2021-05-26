@@ -19,7 +19,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        title: ITFL
+        title: ITLF
       - content: >
           ###### Education
 
