@@ -1,6 +1,16 @@
 ---
 title: Features
 sections:
+  - section_id: call-to-action
+    type: section_cta
+    title: Next ERA Of Your Business
+    subtitle: >-
+      We help our customers enhance the Efficiency & Effectiveness of their
+      Talent Supply Chain.
+    actions:
+      - label: Call us Now
+        url: '#'
+        style: primary
   - section_id: lorem-ipsum
     background: gray
     features:
@@ -165,16 +175,6 @@ sections:
         actions: []
         type: feature_item
     type: section_features
-  - section_id: call-to-action
-    type: section_cta
-    title: Next ERA Of Your Business
-    subtitle: >-
-      We help our customers enhance the Efficiency & Effectiveness of their
-      Talent Supply Chain.
-    actions:
-      - label: Call us Now
-        url: '#'
-        style: primary
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
